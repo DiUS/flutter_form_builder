@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flutter_form_builder.iml" filepath="$PROJECT_DIR$/flutter_form_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flutter_form_builder.iml" filepath="$PROJECT_DIR$/.idea/flutter_form_builder.iml" />
     </modules>
   </component>
 </project>
